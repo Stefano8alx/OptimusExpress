@@ -1,0 +1,34 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+/* Estilos para las tarjetas */
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+/* Estilos para los botones */
+.btn {
+  font-weight: bold;
+}
+
+/* Estilos para los mensajes */
+#mensajeEmpleado, #mensajeLavado {
+  font-size: 1.1rem;
+}
+
+/* Estilos para el pie de página */
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
